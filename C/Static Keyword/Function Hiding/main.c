@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "crypto.c"
 #include "crypto.h"
-
 int main() {
     unsigned char buf[10] = {0};
 
